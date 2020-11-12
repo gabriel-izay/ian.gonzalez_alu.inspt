@@ -30,7 +30,7 @@ int main(){
     }
     // mostrar todo - buscar droga mas utilizada - marcar
     system("cls");
-    printf("\tT1\t\T2\tT3\tT4");
+    printf("\tT1\tT2\tT3\tT4");
     for(int i=0;i<m;i++){
         max=matriz[i][0];
         //
